@@ -1,0 +1,3 @@
+router-id 5
+input-ports 5400, 5600
+outputs 4500-2-4, 6500-1-6

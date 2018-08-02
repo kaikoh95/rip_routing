@@ -1,0 +1,3 @@
+router-id 3
+input-ports 3200, 3400
+outputs 2300-3-2, 4300-4-4
